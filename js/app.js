@@ -11,7 +11,7 @@ window.onscroll = function(){
 
   console.log(y);
 
-  corbin.style.top = -3500+ y * 1.0 + "px";
+  corbin.style.top = -2000 +y * .9+ "px";
   corbin.style.left="400px"
   corbin.innerHTML = y + "px";
 

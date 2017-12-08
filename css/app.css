@@ -197,7 +197,8 @@
 
 #corbin {
   position: relative;
-  bottom: 17365px;
+  margin-top:-500px;
+  z-index: 2;
 
 }
 #castle {
