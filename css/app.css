@@ -3,7 +3,7 @@
   width: 1500px;
   background-color: #7EC0EE;
   margin: 0 auto;
-
+  overflow: hidden;
 }
 
 #cloud1 {
@@ -119,7 +119,7 @@
 #beanmiddle12 {
   position: relative;
   bottom: 6848px;
-  left: 455px;
+  left: 456px;
 }
 
 #beanmiddle13 {
@@ -130,7 +130,7 @@
 #beanmiddle14 {
   position: relative;
   bottom: 6948px;
-  left: 455px;
+  left: 456px;
 }
 
 #beanmiddle15 {
@@ -142,10 +142,64 @@
 #beanmiddle16 {
   position: relative;
   bottom: 7048px;
+  left: 456px;
+}
+#beanmiddle17 {
+  position: relative;
+  bottom: 7123px;
   left: 455px;
 }
 
+#beanmiddle18 {
+  position: relative;
+  bottom: 7148px;
+  left: 456px;
+}
 
+#beanmiddle19 {
+  position: relative;
+  bottom: 7228px;
+  left: 456px;
+}
+#beanmiddle20 {
+  position: relative;
+  bottom: 7248px;
+  left: 460px;
+}
+#beanmiddle21 {
+  position: relative;
+  bottom: 7328px;
+  left: 460px;
+}
+#beanmiddle22 {
+  position: relative;
+  bottom: 7348px;
+  left: 464px;
+}
+#beanmiddle23 {
+  position: relative;
+  bottom: 7428px;
+  left: 464px;
+}
+
+#beanmiddle24 {
+  position: relative;
+  bottom: 7448px;
+  left: 464px;
+}
+
+#cloud7 {
+  position: relative;
+  left: 300px;
+  bottom: 15365px;
+}
+
+#corbin {
+  position: relative;
+  left: 300px;
+  bottom: 17365px;
+
+}
 #castle {
   position: absolute;
   top: 50px;
