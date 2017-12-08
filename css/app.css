@@ -1,9 +1,10 @@
+
 .parallax{
   height: 10000px;
   width: 1500px;
   background-color: #7EC0EE;
   margin: 0 auto;
-  overflow: hidden;
+
 }
 
 #cloud1 {
