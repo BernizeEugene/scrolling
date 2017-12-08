@@ -2,14 +2,16 @@ var corbin = document.getElementById("corbin");
 var icon = document.getElementById("icon");
 var moves= document.getElementById ("moves")
 
+
 window.onscroll = function(){
 
+  behavior="{smooth}"
 
   var y = window.pageYOffset;
 
   console.log(y);
 
-  corbin.style.top = -2000 + y * .9 + "px";
+  corbin.style.top = -3000+ y * .9 + "px";
   corbin.style.left="400px"
   corbin.innerHTML = y + "px";
 
