@@ -14,7 +14,9 @@ window.onscroll = function(){
   corbin.style.top = y  + "px";
   corbin.style.left="400px"
   corbin.innerHTML = y + "px";
-
+  if (y< 500) {
+    corbin.style="hidden";
+  }
   if (y > 500) {
     corbin.style.WebkitTransform="rotate(60deg)"
     corbin.style.msTransform ="rotate(60deg)"
