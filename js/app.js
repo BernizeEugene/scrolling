@@ -43,11 +43,11 @@ if (y > 9000 ) {
   corbin.style.WebkitTransform="rotate(320deg)"
   corbin.style.msTransform ="rotate(320deg)"
   corbin.style.transform="rotate(320deg)"
-}if (y > 9500 ) {
+}if (y > 10500 ) {
   corbin.style.WebkitTransform="rotate(340deg)"
   corbin.style.msTransform ="rotate(340deg)"
   corbin.style.transform="rotate(340deg)"
-}if (y > 10000 ) {
+}if (y > 12000 ) {
   corbin.style.WebkitTransform="rotate(360deg)"
   corbin.style.msTransform ="rotate(360deg)"
   corbin.style.transform="rotate(360deg)"
